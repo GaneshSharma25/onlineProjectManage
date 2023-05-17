@@ -1,8 +1,8 @@
-1. employee: Represents an individual who accesses the system and performs various actions within the project management application. It includes attributes such as username, password, email address, role, and contact information.
+1. employee: Represents an individual who accesses the system and performs various actions within the project management application.
 
 2. Project: Represents a specific endeavor with defined goals, timelines, and deliverables. It includes attributes such as project ID, title, description, start and end dates, and associated stakeholders.
 
-3. Task: Represents a unit of work that needs to be completed as part of a project. It includes attributes such as task ID, title, description, status, priority, due date, and assigned team members.
+3. Task: Represents a unit of work that needs to be completed as part of a project. It includes attributes such as task ID, title, description, status and assigned team members.
 
 4. Project Manager: Represents a user who is responsible for overseeing and managing a project. Project managers have additional privileges and responsibilities compared to regular team members.
 
